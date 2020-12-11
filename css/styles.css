@@ -194,8 +194,9 @@ body{
 
   }
   @media (max-width: 600px) {
-    body{
-      padding-left:15%;
+    .stars-container{
+      text-align: left;
+    }
     .stars-1,
     .stars-2,
     .stars-3{
