@@ -170,6 +170,9 @@ body{
       padding-right: 15px;
 
     }
+    .stars-container{
+      text-align: center;
+    }
     .review-2 {
       left: 0;
     }
