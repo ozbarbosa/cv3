@@ -197,7 +197,7 @@ body{
   }
   @media (max-width: 600px) {
     .row-1{
-      padding: 5% 5px 3% 30px;
+      padding: 5% 10% 3%;
     }
     .stars-container{
       text-align: left;
@@ -208,7 +208,7 @@ body{
       font-size: 13px;
     }
     .mid-row{
-      padding:0 5px 0 30px;
+      padding:0 10% 0;
     }
     
 
