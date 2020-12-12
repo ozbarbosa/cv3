@@ -167,19 +167,20 @@ body{
       text-align:center;
       padding-left: 15px;
       padding-right: 15px;
-
+    }
+    .row-1{
+      padding: 5% 10% 3%;
     }
     .stars-container{
       text-align: center;
     }
-    .review-2 {
+    .review-2,
+    .review-3 {
       left: 0;
     }
-    .review-3{
-      left: 0;
+    .mid-row{
+      padding:0 10% 0;
     }
-
-
     .card-1{
       margin:30px auto 20px;
       right: 0;
